@@ -107,4 +107,5 @@ C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Micro
 C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
-C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Project.cshtml.g.cs
+C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Project\_Project.cshtml.g.cs
+C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
