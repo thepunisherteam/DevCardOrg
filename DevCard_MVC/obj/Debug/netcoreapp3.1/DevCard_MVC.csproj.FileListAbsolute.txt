@@ -109,3 +109,5 @@ C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\
 C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Project\_Project.cshtml.g.cs
 C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\farshad\Desktop\DevCardOrg\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
