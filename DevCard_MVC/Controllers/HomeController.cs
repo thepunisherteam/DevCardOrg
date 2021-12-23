@@ -24,7 +24,8 @@ namespace DevCard_MVC.Controllers
         [HttpPost]
         public IActionResult Contact(Contact contact)
         {
-            return View();
+            var model = new Contact();
+            return View(model);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
